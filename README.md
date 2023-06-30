@@ -1,7 +1,7 @@
 # GPA_Calculator_v2.0
 
 A GPA calculator that I wrote for fun and because I really liked the thought of having the convenience of having a gpa calculator on my local machine rather than relying on a calculator on a webpage. 
-I first wanted to make sure the logic of my code worked first. Don't know when per se, but I know I'll eventually get around to the To Do list below.
+I first wanted to make sure the logic of my code worked first. I'll eventually get around to the To Do list below, thought I'm not sure when per se,.
 
 To do:
 • Interactive GUI
