@@ -8,5 +8,4 @@ To do:
 • Further Bug Testing/Fixing
 • Clean-up/optimize code?
 
-I don't mind if anyone wants to use this code for their own purposes, but if you want to publish your work with this code please make sure to give credit.
-I'm merely a Computer Science student, so I am open to all forms of constructive feedback and criticism.
+I'm merely a Computer Science student so I know my code isn't as perfect or efficient as it could be, however, I am open to all forms of constructive feedback and criticism.
