@@ -9,7 +9,7 @@ I first wanted to make sure the logic of my code worked first. I'll eventually g
 
 To do:
 • Interactive GUI
-• Further Bug Testing/Fixing
+• Further Bug Testing/Fixing?
 • Clean-up/optimize code?
 
 I'm merely a Computer Science student so I know my code isn't as perfect or efficient as it could be, however, I am open to all forms of constructive feedback and criticism.
