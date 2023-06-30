@@ -1,7 +1,6 @@
 # GPA Calculator v2.0
 
 GPA Calculator v2.0
-
 By Sean Allgaier
 
 A GPA calculator that I wrote for fun and because I really liked the thought of having the convenience of having a gpa calculator on my local machine rather than relying on a calculator on a webpage. 
