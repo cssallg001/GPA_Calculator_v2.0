@@ -1,4 +1,4 @@
-# GPA Calculator v2.0
+# GPA Calculator v1.0
 
 GPA Calculator v2.0  
 By Sean Allgaier
